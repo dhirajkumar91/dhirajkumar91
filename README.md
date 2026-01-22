@@ -33,7 +33,7 @@ Currently focused on **internships & placements**, sharpening both **real-world 
 
 ---
 
-##  Tech Stack (Detailed)
+##  Tech Stack 
 
 ###  Frontend
 
