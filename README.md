@@ -2,7 +2,11 @@
 <h3 align="center">Aspiring Software Engineer | MERN Stack Developer | Internship & Placement Focused</h3>
 
 <p align="center">
-Building real-world, scalable full-stack applications • Strong backend + admin systems • Placement driven
+Building real-world, scalable full-stack applications • Strong backend & admin systems • Placement driven 🚀
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhirajkumar91&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -10,18 +14,26 @@ Building real-world, scalable full-stack applications • Strong backend + admin
 ## 🚀 About Me
 
 I’m a passionate **full-stack web developer (MERN)** who loves building **production-level applications** with clean UI, secure backends, and scalable architecture.
-Currently focused on **internships & placements**, improving both **real-world development skills and core CS fundamentals**.
+Currently focused on **internships & placements**, sharpening both **real-world development skills and core CS fundamentals**.
 
 * 🎓 Computer Science student
 * 💻 MERN Stack developer (MongoDB, Express, React, Node.js, Next.js)
-* 🏗️ Building **real platforms** like admin dashboards & alumni networks
-* 🔐 JWT auth, role-based systems, REST APIs, Prisma
-* 🧠 Practicing **DSA & problem solving** regularly
-* 🌱 Learning **scalable architectures & professional workflows**
+* 🏗️ Building real platforms like **admin dashboards & alumni networks**
+* 🔐 JWT authentication, role-based access, REST APIs, Prisma
+* 🧠 Regular DSA & problem solving practice
+* 🌱 Learning scalable architectures & professional workflows
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,postgres,prisma,docker,git,github,html,css,tailwind,vscode" />
+</p>
+
+---
+
+## 🛠️ Tech Stack (Detailed)
 
 ### ⚡ Frontend
 
@@ -50,7 +62,7 @@ Git & GitHub • Postman • Thunder Client • VS Code • Figma
   Secure dashboards, verification workflows, protected APIs & scalable backend structure.
 
 * 🌐 **MERN Projects Collection**
-  Real-world apps focused on performance, UX, and clean code.
+  Real-world applications focused on performance, UX, and clean code.
 
 ---
 
@@ -63,11 +75,34 @@ Git & GitHub • Postman • Thunder Client • VS Code • Figma
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhirajkumar91&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajkumar91&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajkumar91&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhirajkumar91&theme=darkhub&no-frame=true&row=1"/>
+</p>
+
+---
+
 ## 🤝 Let’s Connect
 
-* 💼 LinkedIn: (https://www.linkedin.com/in/dhirajkumar91)
-* 🌐 Portfolio: (add link)
-* 📧 Email: (drai6186@gmail.com)
+<p align="center">
+<a href="https://linkedin.com/in/dhirajkumar91"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:drai6186@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://github.com/dhirajkumar91"><img src="https://skillicons.dev/icons?i=github"/></a>
+</p>
 
 ---
 
